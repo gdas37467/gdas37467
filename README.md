@@ -24,9 +24,9 @@ Not bound by any single framework or language, always choosing the **right tool 
 ### 🔹 Frontend  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white"/>
 </p>
 
 ### 🔹 Databases  
