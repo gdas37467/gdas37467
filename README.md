@@ -29,12 +29,20 @@ Not bound by any single framework or language, always choosing the **right tool 
   <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white"/>
 </p>
 
+### 🔹 Databases  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
 ### 🔹 Deployment & DevOps  
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
+
 
 
 ## 📊 GitHub Stats  
